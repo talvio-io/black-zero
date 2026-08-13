@@ -1,0 +1,30 @@
+{
+  "name": "ZERO BLACK — Multi-Agent AI Platform",
+  "short_name": "ZERO BLACK",
+  "description": "Six agents. One platform. Autonomous multi-agent AI orchestration for modern dev teams.",
+  "start_url": "https://zeroblack.fun/",
+  "scope": "https://zeroblack.fun/",
+  "display": "standalone",
+  "background_color": "#060709",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "https://zeroblack.fun/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://zeroblack.fun/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://zeroblack.fun/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
